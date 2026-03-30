@@ -112,4 +112,4 @@
 
 *By HackGround/The Emptiness Society*
 
-*Последнее обновление: Absolute Mode v2.2*
+*Последнее обновление: Absolute Mode v2.3*
